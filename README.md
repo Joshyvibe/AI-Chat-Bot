@@ -7,11 +7,11 @@ This repository provides all the resources needed to create an AI Chat Bot app c
 
 ## Key Features
 ### Backend:
-- chat_with_ai
-- ChatView
+- api
+- backend
 
 ### Frontend:
-- ChatAI.jsx
+
 
 ---
 
