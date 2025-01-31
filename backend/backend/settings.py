@@ -88,7 +88,7 @@ AUTHENTICATION_BACKENDS = (
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
-    'https://main.d1lm0dgwemquu6.amplifyapp.com/'
+    'https://main.d1lm0dgwemquu6.amplifyapp.com'
     # Frontend URL
 ]
 
